@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GPX analysis</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Parameters</string>
+    <string name="load_file">Load File</string>
+    <string name="reset">Reset</string>
+    <string name="min_len_summary">Segment must be at least %s feet.</string>
+    <string name="min_grade_summary">Segment must on average be at least %s degrees.</string>
+    <string name="min_gain_summary">Segment must be at least %s feet long.</string>
+    <string name="start_grade_summary">Grade %s and above is considered a hill.</string>
+    <string name="start_grade_title">Start grade</string>
+    <string name="min_gain_title">Minimum gain</string>
+    <string name="min_grade_title">Minimum grade</string>
+    <string name="min_length_title">Minimum length</string>
+    <string name="reset_title">reset to defaults</string>
+    <string name="reset_summary">Restores all settings to their defaults</string>
+    <string name="min_length_default">20</string>
+    <string name="min_grade_default">2.5</string>
+    <string name="min_gain_default">30</string>
+    <string name="start_grade_default">2.0</string>
+</resources>
